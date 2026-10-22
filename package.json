@@ -1,0 +1,17 @@
+{
+  "name": "line-ending-normalizer-ts",
+  "version": "0.1.0",
+  "description": "Command-line tool for detecting and converting text files between LF, CRLF, and CR line endings.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {}
+}
